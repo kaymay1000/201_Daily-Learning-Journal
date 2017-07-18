@@ -26,3 +26,6 @@ it well enough".
 
 
 I think his name was Albert Einstein or something. :)
+
+#LJ Code 201- Day 6
+Today was day 6, we started our Salmon Cookie project. I am extremely occupied trying to figure out the correct code to complete my project. DOM is interesting, I don't fully grasp it yet but I will own it someday. I just have to keep pushing!
