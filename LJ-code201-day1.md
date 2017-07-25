@@ -35,3 +35,6 @@ Today, we continued our Salmon Cookie project. It is getting more intense but I 
 
 # LJ Code 201- Day 10:
 Today is Friday. This week was incredibly challenging but you did it! You pushed through, learned a lot and still have a lot to learn. This project was difficult but I am glad I did it. The hardest part (JavaScript) is done. I just have to style my pages.
+
+# LJ Code 201- Day 11.
+Its Monday. We have begun our Bus Mall project. It is difficult but I think I have a few ideas that might work. I will try them tomorrow. Keep pushing! 
